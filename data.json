@@ -1,0 +1,56 @@
+{"noun":[
+{"number": ["Madka","Madki"]},
+{"number": ["Celebryta","Celebryci"]},
+{"number": ["Polak","Polacy"]},
+{"number": ["Teściowa","Teściowe"]},
+{"number": ["Konkubina","Konkubiny"]},
+{"number": ["Konkubent","Konkubenci"]},
+{"number": ["Satanista","Sataniści"]}
+],
+"start":[
+    {"content":"wśród najgroźniejszych przestępców świata. Narzekają",
+    "plural": 1},
+    {"content":"stracą 500+? Powodem są",
+    "plural": 1},
+    {"content":"mówi o rzezi krasnali ogrodowych! Wkurzają się",
+    "plural": 0},
+    {"content":"likwiduje fundusz emerytalny! Protestują",
+    "plural": 0},
+    {"content":"czeka za zwrot podatku. Zaskakują się",
+    "plural": 0},
+    {"content":"nie wyjadą na ferie. Odpowiadają",
+     "plural": 1},
+    {"content":"nigdy nie będą mieć lepszego brzucha! Teraz najlepszy brzuch mają",
+    "plural": 1},
+    {"content":"bez pracy - to my",
+    "plural": 1},
+    {"content":"głosują na tych karakanów. \"To jest jakiś [CENZURA] dramat!\" - twierdzą",
+    "plural": 1},
+    {"content":"wymyśla 100 sposobów na smaczne danie z cyjankiem potasu. Donoszą",
+    "plural": 0}
+],
+"mNoun":[
+    {"content":"lamy", "nMOs": 1},
+    {"content":"ONRowcy", "nMOs": 0},
+    {"content":"weganie", "nMOs": 0},
+    {"content":"mefedroniarze", "nMOs": 0},
+    {"content":"maturzyści", "nMOs": 0},
+    {"content":"maturzystki", "nMOs": 1},
+    {"content":"lekarze", "nMOs": 0}
+],
+"mAdj":[
+    {"content":["nieświadomi", "nieświadome"]},
+    {"content":["myśliwi", "myśliwe"]},
+    {"content":["krwiożerczy", "krwiożercze"]},
+    {"content":["obrażeni", "obrażone"]},
+    {"content":["oburzeni", "oburzone"]},
+    {"content":["pijani", "pijane"]},
+    {"content":["protestujący", "protestujące"]}
+],
+"end":[
+    "[ZOBACZ JAK]",
+    "[ZDJĘCIA]",
+    "[ARTYKUŁ]",
+    "[WIDEO]",
+    "[SPRAWDŹ]"
+]}
